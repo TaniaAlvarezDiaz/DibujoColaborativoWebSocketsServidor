@@ -1,0 +1,14 @@
+{
+  "name": "drawingserver",
+  "version": "1.0.0",
+  "description": "My Websocket Server for drawing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tania Álvarez Díaz",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.2.3"
+  }
+}
